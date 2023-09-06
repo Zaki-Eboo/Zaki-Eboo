@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zaki Eboo</h1>
 <h3 align="center">Android developer from Egypt, Welcome To My Github Profile ♥Android developer from Egypt</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<br/>
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaki-eboo&label=Profile%20views&color=0e75b6&style=flat" alt="zaki-eboo" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce app**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 🤝 I’m looking for help with **backend developer**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Zaki-Eboo](https://github.com/Zaki-Eboo)
-
-- 💬 Ask me about **Android**
 
 - 📫 How to reach me **zakieboo55@gmail.com**
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
