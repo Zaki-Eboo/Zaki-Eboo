@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaki-eboo&label=Profile%20views&color=0e75b6&style=flat" alt="zaki-eboo" /> </p>
 
 <h3>🚀 About Me</h3> 
-<h4> I am a Flutter developer who loves creating stunning user interfaces</h4>
-<h4>I am a skilled Flutter developer who can leverage the power of Flutter to create amazing applications. I have a solid understanding of Flutter’s architecture, principles, and best practices. I am familiar with various Flutter packages and tools that enhance the development process </h4>
+<h4> I am a Flutter developer who loves creating stunning user interfaces\nI am a skilled Flutter developer who can leverage the power of Flutter to create amazing applications. I have a solid understanding of Flutter’s architecture, principles, and best practices. I am familiar with various Flutter packages and tools that enhance the development process </h4>
 
 
 
