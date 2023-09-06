@@ -45,7 +45,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"   width="40" height="40"/> </a>&nbsp&nbsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"   width="40" height="40"/> </a>
 </p>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 80% height=95px>
 
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaki-eboo&show_icons=true&locale=en" alt="zaki-eboo" /></p> -->
