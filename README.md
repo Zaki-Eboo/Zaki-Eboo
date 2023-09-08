@@ -14,7 +14,16 @@
 
 <h3 align="left">Connect with me |</h3>
 
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zaki.eboo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:hossamfaroukmourad@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/hossam-mourad-44008828a/)
+[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hossammourad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hossam_farouk_mourad/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/7ossammourad)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01050935303)
 <p align="left">
+  
 <a href="https://www.facebook.com/zaki.eboo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zaki eboo"  width="40" height="40"/></a> &nbsp
 <a href="https://t.me/Zaki_Eboo" target="blank"> <img align="center" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app" width="40" height="40" /></a> &nbsp
 <a href="https://www.linkedin.com/in/zaki-eboo-b0b089235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaki eboo"  width="40" height="40" /></a> &nbsp
