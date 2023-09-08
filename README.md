@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaki Eboo</h1>
-<h3 align="center">Android developer from Egypt, Welcome To My Github Profile ♥</h3>
+<h3 align="center">Mobile developer from Egypt, Welcome To My Github Profile ♥</h3>
 <br/>
 <br/>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
