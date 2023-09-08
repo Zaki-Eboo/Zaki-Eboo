@@ -14,14 +14,18 @@
 
 <h3 align="left">Connect with me |</h3>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:zakieboo55@gmail.com)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zaki.eboo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:hossamfaroukmourad@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/hossam-mourad-44008828a/)
-[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hossammourad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hossam_farouk_mourad/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/7ossammourad)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01050935303)
+)](https://www.linkedin.com/in/zaki-eboo-b0b089235/)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01120265508)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zaki_Eboo)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21110305)
+
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://ar.quora.com/profile/ZAKI-EBOO)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/zakieboo55/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white )](https://www.hackerrank.com/zakieboo55)
+<!--- 
 <p align="left">
   
 <a href="https://www.facebook.com/zaki.eboo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zaki eboo"  width="40" height="40"/></a> &nbsp
@@ -31,6 +35,7 @@
 <a href="https://www.hackerrank.com/zakieboo55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zaki eboo"  width="40" height="40" /></a>
 </p>
 
+--->
 
 <h3 align="left">Languages and Tools |</h3>
 
