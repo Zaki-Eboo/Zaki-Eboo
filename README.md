@@ -2,7 +2,7 @@
 <h3 align="center">Mobile developer from Egypt, Welcome To My Github Profile ♥</h3>
 <br/>
 <br/>
-<img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  alt="Coder GIF"  height=250 width=350 >
 <!--- 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
