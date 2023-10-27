@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaki-eboo&label=Profile%20views&color=0e75b6&style=flat" alt="zaki-eboo" /> </p>
+
 <h1 align="center">Hi 👋, I'm Zaki Eboo</h1>
 <h3 align="center">Mobile developer from Egypt, Welcome To My Github Profile ♥</h3>
 <br/>
@@ -7,7 +9,6 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaki-eboo&label=Profile%20views&color=0e75b6&style=flat" alt="zaki-eboo" /> </p>
 
 <h2>About Me 🚀 </h2> 
 <h4> I am a Flutter developer who loves creating stunning user interfaces<br />I am a skilled Flutter developer who can leverage the power of Flutter to create amazing applications. I have a solid understanding of Flutter’s architecture, principles, and best practices. I am familiar with various Flutter packages and tools that enhance the development process </h4>
